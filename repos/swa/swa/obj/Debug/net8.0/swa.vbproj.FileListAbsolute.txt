@@ -1,0 +1,4 @@
+C:\Users\CS\source\repos\swa\swa\obj\Debug\net8.0\swa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS\source\repos\swa\swa\obj\Debug\net8.0\swa.AssemblyInfoInputs.cache
+C:\Users\CS\source\repos\swa\swa\obj\Debug\net8.0\swa.AssemblyInfo.vb
+C:\Users\CS\source\repos\swa\swa\obj\Debug\net8.0\swa.vbproj.CoreCompileInputs.cache

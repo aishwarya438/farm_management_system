@@ -1,0 +1,4 @@
+C:\Users\CS\source\repos\Four.py\Four.py\obj\Debug\net8.0\Four.py.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CS\source\repos\Four.py\Four.py\obj\Debug\net8.0\Four.py.AssemblyInfoInputs.cache
+C:\Users\CS\source\repos\Four.py\Four.py\obj\Debug\net8.0\Four.py.AssemblyInfo.vb
+C:\Users\CS\source\repos\Four.py\Four.py\obj\Debug\net8.0\Four.py.vbproj.CoreCompileInputs.cache

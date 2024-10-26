@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CS\\source\\repos\\PythonApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB30D3F-D8BB-4187-A35C-3EFF93605FCB}|PythonApplication6\\PythonApplication6.pyproj|C:\\Users\\CS\\source\\repos\\PythonApplication6\\PythonApplication6\\PythonApplication6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEB30D3F-D8BB-4187-A35C-3EFF93605FCB}|PythonApplication6\\PythonApplication6.pyproj|solutionrelative:PythonApplication6\\PythonApplication6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonApplication6.py",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\PythonApplication6\\PythonApplication6\\PythonApplication6.py",
+              "RelativeDocumentMoniker": "PythonApplication6\\PythonApplication6.py",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\PythonApplication6\\PythonApplication6\\PythonApplication6.py",
+              "RelativeToolTip": "PythonApplication6\\PythonApplication6.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-02T01:19:10.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

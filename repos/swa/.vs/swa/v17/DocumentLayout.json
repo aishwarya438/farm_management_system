@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CS\\source\\repos\\swa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3A4AD9-8C90-4FD2-A124-11DC5B989FC5}|swa\\swa.vbproj|c:\\users\\cs\\source\\repos\\swa\\swa\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D3A4AD9-8C90-4FD2-A124-11DC5B989FC5}|swa\\swa.vbproj|solutionrelative:swa\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\CS\\source\\repos\\swa\\swa\\Program.vb",
+              "RelativeDocumentMoniker": "swa\\Program.vb",
+              "ToolTip": "C:\\Users\\CS\\source\\repos\\swa\\swa\\Program.vb",
+              "RelativeToolTip": "swa\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-20T00:48:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
